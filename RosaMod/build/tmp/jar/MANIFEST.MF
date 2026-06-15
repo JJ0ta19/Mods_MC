@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: RosaMod
+Specification-Vendor: RosaMod
+Specification-Version: 1.0.0
+Implementation-Title: RosaMod
+Implementation-Version: 1.0.0
+Implementation-Vendor: RosaMod
+Implementation-Timestamp: 2026-06-07T23:18:18-0500
+

@@ -1,0 +1,8 @@
+{
+  "rasengan_grapple": {
+    "subtitle": "Rasengan impacta",
+    "sounds": [
+      "rasengan:entity/rasengan_grapple"
+    ]
+  }
+}

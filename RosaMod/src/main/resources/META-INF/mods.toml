@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="rosamod"
+version="1.0.0"
+displayName="RosaMod"
+description='''Mod ritual visual adaptado del plugin RosaCrepers.'''
+authors="Nelonino"

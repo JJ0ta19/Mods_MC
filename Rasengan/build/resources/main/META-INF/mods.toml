@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="rasengan"
+version="1.0.0"
+displayName="Rasengan Mod"
+credits="Creado por JHON"
+authors="JHON"
+description='''
+Mod de Rasengan - El jutsu legendario ahora en Minecraft!
+'''
+
+[[dependencies.rasengan]]
+modId="forge"
+mandatory=true
+versionRange="[47.3,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.rasengan]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

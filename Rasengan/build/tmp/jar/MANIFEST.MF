@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Rasengan
+Specification-Vendor: rasengan
+Specification-Version: 1
+Implementation-Title: rasengan
+Implementation-Version: 1.0.0
+Implementation-Vendor: rasengan
+Implementation-Timestamp: 2026-05-26T16:15:34-0500
+
